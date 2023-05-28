@@ -1,0 +1,1 @@
+# Factory for Mage, Priest and Warlock

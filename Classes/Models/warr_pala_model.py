@@ -1,0 +1,1 @@
+# Model for warrior and Paladin

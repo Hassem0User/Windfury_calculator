@@ -1,0 +1,1 @@
+# Factory for the Weapon

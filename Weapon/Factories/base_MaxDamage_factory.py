@@ -1,0 +1,1 @@
+# Lowest damage from weapon

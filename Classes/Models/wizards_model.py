@@ -1,0 +1,1 @@
+# Model for Mage, Priest and Warlock

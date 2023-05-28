@@ -1,0 +1,1 @@
+# Factory for Warrior and Paladin

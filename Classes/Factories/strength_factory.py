@@ -1,0 +1,1 @@
+# Total strength of char
